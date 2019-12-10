@@ -188,7 +188,7 @@ i {
 }
 @keyframes flotte2 {
    0% { top: 1px; }
-   50% { top: 20px; right:30px;}
+   50% { top: 20px; }
    100% { top: 1px; }
 }
 
